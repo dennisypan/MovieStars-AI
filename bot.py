@@ -17,8 +17,8 @@ port = '5000'
 
 # Input region_name, aws_access_key_id, aws_secret_access_key
 client=boto3.client('rekognition', region_name='us-west-2', 
-                    aws_access_key_id='AKIAIJMPJA4LJCFJTNFQ', 
-                    aws_secret_access_key='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')
+                    aws_access_key_id='', 
+                    aws_secret_access_key='')
 
 response1 = None
 
