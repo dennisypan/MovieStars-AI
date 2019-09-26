@@ -15,4 +15,4 @@ This repository contains:
 
 NOTE: 
 1) for bot.py at lines 18 - 21, you have to creat your own "aws_access_key_id" and "aws_secret_access_key" via your own AWS account.  After you got the 2 keys from AWS, fill the blanks ("aws_access_key_id" and "aws_secret_access_key") on the bot.py file.  
-2) for index.html at lines 15 - 18, "channelId" and "token" are all fake, for cybersecurity reason.  Once you got your own	webchat script from CAI, replace everything below with your own webchat script from CAI
+2) for index.html at lines 15 - 18, "channelId" and "token" are all fake, for cybersecurity reason.  Once you got your own webchat script from CAI, replace everything in lines 15 - 18 with your own webchat script from CAI.
